@@ -1,0 +1,1 @@
+# zadanie: pierwsze samodzielne commity
