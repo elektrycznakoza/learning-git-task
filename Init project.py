@@ -1,7 +1,6 @@
 # zadanie: pierwsze samodzielne commity
 # -*- coding: utf-8 -*-
 
-# punkt 5
 shopping_list = {
     "grocery_store": ["oranges", "bananas", "milk"],
     "bakery_store": ["bread", "eggs", "butter"],
@@ -12,10 +11,9 @@ shopping_list = {
 total_products = 0
 
 # Iteracja po słowniku i wyświetlanie informacji o zakupach
-# punkt 6
 for store, items in shopping_list.items():
     # Przetwarzanie nazw sklepów i produktów na wielkie litery
-# punkt 7
+
     store_name_capitalized = store.capitalize()
     items_name_capitalized = [item.capitalize() for item in items]
 
