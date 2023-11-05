@@ -9,7 +9,7 @@ shopping_list = {
 }
 
 # Inicjalizacja zmiennej na sumę produktów
-total_products = 1
+total_products = 0
 
 # Iteracja po słowniku i wyświetlanie informacji o zakupach
 # punkt 6
