@@ -1,3 +1,5 @@
+print('pozdrawiam mojego najlepszego mentora!')
+
 # zadanie: pierwsze samodzielne commity
 # -*- coding: utf-8 -*-
 
@@ -25,3 +27,4 @@ for store, items in shopping_list.items():
 
 # Wyświetlenie sumy produktów
 print(f"W sumie kupuję {total_products} produktów.")
+
